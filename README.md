@@ -1,2 +1,2 @@
-# python-pyqtt5-
+# python-pyqt5-实现广油课程表
 广油课程表 没有保存数据到mql 都是爬取教务系统请求
